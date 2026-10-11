@@ -1,19 +1,11 @@
 # UNLOX Cybersecurity & Cloud Projects Portfolio
 
-[![Author](https://img.shields.io/badge/Author-Nawaz%20RK%20%28%40Neo--0013%29-blue.svg)](https://github.com/Neo-0013)
-[![Roll No](https://img.shields.io/badge/Roll%20No-18206-orange.svg)](#student-profile)
+[![Profile](https://img.shields.io/badge/GitHub-Neo--0013-blue.svg)](https://github.com/Neo-0013)
 [![Academy](https://img.shields.io/badge/Academy-UNLOX-0284c7.svg)](https://unlox.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Security: Hardened](https://img.shields.io/badge/Security-Zero%20Trust%20%2F%20Hardened-green.svg)](#standards--evaluation-compliance)
 
-A unified, modular repository containing all hands-on cybersecurity, penetration testing, and cloud security engineering projects completed as part of the **UNLOX Academy** curriculum.
-
----
-
-## 👨‍💻 Student Profile
-- **Student Name:** Nawaz RK
-- **Roll Number / Student ID:** `18206`
-- **GitHub Profile:** [@Neo-0013](https://github.com/Neo-0013)
-- **Primary Workstation:** Kali Linux & VirtualBox Labs
+A unified, modular repository containing hands-on cybersecurity, penetration testing, and cloud security engineering projects completed as part of the **UNLOX Academy** curriculum.
 
 ---
 
@@ -47,9 +39,9 @@ UNLOX-Projects/
 
 ### 🔹 Mini-Projects
 
-| # | Project Title | Focus Areas | Target / Tech Stack | Status | Deliverable |
+| # | Project Title | Focus Areas | Target / Tech Stack | Status | Deliverables |
 | :-: | :--- | :--- | :--- | :-: | :--- |
-| **01** | [**VAPT & Secure Cloud Staging**](mini-projects/01-vapt-cloud-staging/) | Discovery, Port Scanning, CVE Exploit, CVSS v3.1, AWS EC2 & S3 Hardening | Metasploitable 2, Kali Linux, LocalStack 3.8, AWS CLI | **Completed (100/100)** | [18206_NawazRK_VAPTMiniProject.pdf](mini-projects/01-vapt-cloud-staging/submission/18206_NawazRK_VAPTMiniProject.pdf) |
+| **01** | [**VAPT & Secure Cloud Staging**](mini-projects/01-vapt-cloud-staging/) | Discovery, Port Scanning, CVE Exploit, CVSS v3.1, AWS EC2 & S3 Hardening | Metasploitable 2, Kali Linux, LocalStack 3.8, AWS CLI | **Completed (100/100)** | [Submission Files](mini-projects/01-vapt-cloud-staging/submission/) |
 
 ### 🔹 Major Projects
 

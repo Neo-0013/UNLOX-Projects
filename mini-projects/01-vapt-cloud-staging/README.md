@@ -138,8 +138,6 @@ Detailed in [`submission/AWS_TASK_ANSWERS.md`](submission/AWS_TASK_ANSWERS.md):
 
 ---
 
-## 👨‍💻 Submission Details
-- **Student Name:** Preetham
-- **Roll / ID:** 2026-UNLOX-042
-- **Deliverable PDF:** `RollNo_Name_VAPTMiniProject.pdf` (Inside `submission/`)
-- **Evaluation Criteria:** Technical correctness (40%), Documentation quality (25%), CVSS scoring (15%), AWS tasks (15%), Clarity (5%).
+## 📄 Submission Package
+- **Deliverable Report:** `18206_NawazRK_VAPTMiniProject.pdf` (Inside `submission/`)
+- **Evaluation Rubric:** Technical correctness (40%), Documentation quality (25%), CVSS scoring (15%), AWS tasks (15%), Clarity (5%).
