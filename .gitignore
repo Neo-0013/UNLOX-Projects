@@ -1,0 +1,15 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+
+# Operating System files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Temporary artifacts
+*.tmp
+*.log
