@@ -21,7 +21,8 @@ UNLOX-Projects/
 │
 ├── mini-projects/                     # Hands-on technical mini-projects
 │   ├── README.md                      # Mini-projects registry & syllabus tracking
-│   └── 03-vapt-cloud-staging/         # Mini-Project 3: VAPT Lifecycle & AWS Cloud Staging
+│   ├── 03-vapt-cloud-staging/         # Mini-Project 3: VAPT Lifecycle & AWS Cloud Staging
+│   └── cybersecurity-minor-project_4/ # Mini-Project 4: Digital Forensics & Incident Response
 │       ├── README.md                  # Comprehensive technical writeup & architecture
 │       ├── assets/                    # Static assets & landing pages
 │       ├── policies/                  # Scoped AWS IAM / S3 Bucket policies
@@ -42,6 +43,7 @@ UNLOX-Projects/
 | # | Project Title | Focus Areas | Target / Tech Stack | Status | Deliverables |
 | :-: | :--- | :--- | :--- | :-: | :--- |
 | **03** | [**VAPT & Secure Cloud Staging**](mini-projects/03-vapt-cloud-staging/) | Discovery, Port Scanning, CVE Exploit, CVSS v3.1, AWS EC2 & S3 Hardening | Metasploitable 2, Kali Linux, LocalStack 3.8, AWS CLI | **Completed (100/100)** | [Submission Files](mini-projects/03-vapt-cloud-staging/submission/) |
+| **04** | [**Digital Forensics & Incident Response**](mini-projects/cybersecurity-minor-project_4/) | Autopsy Ingest Modules, Evidence Integrity, Hash Verification, Incident Reporting | Autopsy, Kali Linux, Sleuth Kit | **Completed** | [Submission Files](mini-projects/cybersecurity-minor-project_4/) |
 
 ### 🔹 Major Projects
 

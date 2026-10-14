@@ -1,0 +1,19 @@
+# Forensic images and case databases — do not commit large/private evidence
+*.E01
+*.E02
+*.dd
+*.raw
+*.img
+*.001
+*.vmdk
+*.vdi
+AutopsyCases/
+case-data/
+.env
+*.pem
+*.key
+*.p12
+*.pfx
+.DS_Store
+Thumbs.db
+.vscode/
